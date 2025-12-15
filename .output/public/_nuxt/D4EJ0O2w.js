@@ -1,0 +1,1 @@
+import{H as e,Y as o,c as n,o as c}from"./CoOn5R3x.js";const l={__name:"change",setup(t){return e(async()=>{await o.get("/jadval").then(a=>{console.log(a.data)}).catch(a=>{console.log(a)})}),(a,s)=>(c(),n("h1",null,"change for username and password"))}};export{l as default};
